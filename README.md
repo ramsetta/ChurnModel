@@ -13,7 +13,7 @@ The goal of this project is to use data from Kaggle.com about customer churn wit
 The data set was created by IBM with the intention of creating models with regards to customer churn. The data is from a made up company called, 'Telcoo', which offers services such as internet and tv and contains 7,043 customers' information with 21 different variables (including churn). The data allows for various machine learning models to be run and includes opportunites to explore various phases of the data science lifecycle such as data cleaning and feature engineering.
 
 ## Project Description
-1
+1fff
 2
 
 ## Machine Learning Models Used
