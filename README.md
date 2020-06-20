@@ -7,14 +7,13 @@
 * Other Programs Used - MS PowerPoint, MS Excel, MS Word
 
 ## Project Goal
-The goal of this project is to use data from Kaggle.com about customer churn with a fake data set made by IBM. I will use a logistic regression, decision trees, and random forest models to determine what variables are important to churn and what models help predict churn. From there, I will use a cost savings model to determine an amount the company will save if a model is implemented to predict churn.
+The goal of this project is to construct a predictive model that effectively predicts customer churn as well as provide actionable recommendations and insigthts based on significant variables and findings from the data. Various machine learning models and techniques were used including loghistic regression, decision trees, and random forest as well as k-fold cross-validation and pruning. Lastly, to get experience following the data science lifecycle that provides an end to end experience from business understanding to visualization and presentation.
 
-## Project Overview
-The data set was created by IBM with the intention of creating models with regards to customer churn. The data is from a made up company called, 'Telcoo', which offers services such as internet and tv and contains 7,043 customers' information with 21 different variables (including churn). The data allows for various machine learning models to be run and includes opportunites to explore various phases of the data science lifecycle such as data cleaning and feature engineering.
+## Data Overview
+The data set was created by IBM with the intention of creating models with regards to customer churn. The data is from a made up company called, 'Telcoo', which offers services such as internet and tv and contains 7,043 customers' information with 21 different variables including demograpic and plan specific information. The data allows for various machine learning models to be run and includes opportunites to explore various phases of the data science lifecycle such as data exploration, data cleaning and feature engineering.
 
 ## Project Description
-1fff
-2
+The data provided by Telco contains a high churn rate of 27%! The current strategy in place is to spend $50 per customer with retention efforts. With this current churn rate, Telco will surely collapse in no time. A new strategy is needed that is not only more accurate but also reduces costs per customer. The models that I have created achieve exactly this, achieving a high accuracy rate and reducing customer costs by over 40%. Also, from the models, important variables were identified with backing from data exploration that provide Telco with a short run focus' to begin reducing churn one variable at a time.
 
 ## Machine Learning Models Used
 * Logistic Regression, Logistic Regression with 10-fold Cross Validation 
