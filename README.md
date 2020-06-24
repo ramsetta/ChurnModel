@@ -19,3 +19,14 @@ The data provided by Telco contains a high churn rate of 27%! The current churn 
 * Logistic Regression, Logistic Regression with 10-fold Cross Validation 
 * Decision Tree, Pruned Decision Tree
 * Random Forest, Random Forest with 10-Fold Cross Validation
+
+## R Libraries Used
+* c50
+* rpart
+* rpart.plot
+* randomforest
+* caret
+* gmodels
+* plyr
+* corrplot
+* adabag
