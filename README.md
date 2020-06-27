@@ -17,6 +17,9 @@ The data provided by Telco contains a high churn rate of 27%! The current churn 
 
 ![image](https://user-images.githubusercontent.com/66981740/85928752-97253c00-b86c-11ea-862d-4e8fcc919b48.png)
 
+## Final Output
+The PowerPoint presentation contains final findings such as model outputs, cost savings totals, and recommendations/insights.
+
 ## Machine Learning Models Used
 * Logistic Regression, Logistic Regression with 10-fold Cross Validation 
 * Decision Tree, Pruned Decision Tree
